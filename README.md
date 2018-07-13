@@ -21,3 +21,9 @@ a little library to load a version attribute from a YAML or JSON file
       }
       fmt.Printf("Read version is: %s\n", version)
     }
+
+## History
+
+|Version|Description|
+|---|---|
+|1.0.0|Initial release|
