@@ -26,4 +26,5 @@ a little library to load a version attribute from a YAML or JSON file
 
 |Version|Description|
 |---|---|
+|1.0.1|go module|
 |1.0.0|Initial release|
