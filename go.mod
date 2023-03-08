@@ -1,5 +1,5 @@
 module livingit.de/code/versioned
 
-go 1.12
+go 1.20
 
-require gopkg.in/yaml.v2 v2.2.2
+require gopkg.in/yaml.v2 v2.4.0
